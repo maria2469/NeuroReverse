@@ -75,7 +75,7 @@ const ChatComponent = () => {
     return (
         <div className="max-w-3xl mx-auto p-8 bg-white rounded-xl shadow-lg space-y-6">
             <div className="text-center">
-                <img src="/images/Benchmark.jpeg" alt="Benchmark" className="w-40 mx-auto mb-4" />
+                <img src="/images/Aiassitant.jpeg" alt="Benchmark" className="w-40 mx-auto mb-4" />
                 <h2 className="text-3xl font-extrabold text-gray-900">AI-Driven Chat Component</h2>
             </div>
 
